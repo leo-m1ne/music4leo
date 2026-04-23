@@ -113,7 +113,7 @@ button:hover i {
 
 .progress-container {
   width: 100%;
-  max-width: 82vw;
+  max-width: 90vw;
   display: flex;
   align-items: center;
   gap: 10px;
