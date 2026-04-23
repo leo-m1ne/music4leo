@@ -92,7 +92,7 @@ const songs = [
     cover: "covers/Gekka.png"
   },
   {
-    name: "Saddnes ~ I Know the Reason of her Sadness",
+    name: "Sadness ~ I Know the Reason of her Sadness",
     artist: "Malice Mizer",
     file: "https://raw.githubusercontent.com/leo-m1ne/music/main/pista015.mp3",
     cover: "covers/Sadness.png"
